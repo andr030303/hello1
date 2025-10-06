@@ -2,11 +2,12 @@
 using namespace std;
 
 int main() {
-    cout << "hello";
-    cout << "helllloooo";
-    cout << "helohelohelo";
-    cout << "new branch";
-    cout << "new main";
-    cout << "bye";
+    cout << "hello" << endl;
+    cout << "helllloooo" << endl;
+    cout << "helohelohelo" << endl;
+    cout << "new branch" << endl;
+    cout << "new main" << endl;
+    cout << "ya natural" << endl;
+    cout << "bye" << endl;
     return 0;
 }
