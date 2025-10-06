@@ -6,6 +6,7 @@ int main() {
     cout << "helllloooo";
     cout << "helohelohelo";
     cout << "new branch";
+    cout << "new main";
     cout << "bye";
     return 0;
 }
