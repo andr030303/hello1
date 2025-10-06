@@ -8,6 +8,7 @@ int main() {
     cout << "new branch";
     cout << "new main";
     cout << "123123123";
+    cout << "1234";
     cout << "bye";
     return 0;
 }
